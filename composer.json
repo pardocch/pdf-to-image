@@ -1,0 +1,20 @@
+{
+  "name": "pardocch/pdf-to-image",
+  "description": "",
+  "keywords": ["php", "pdf", "pdf-to-image", "convert"],
+  "require": {
+    "php": ">=5.4.4"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ChiChun Hung",
+      "email": "chichunhung.5@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Pdf\\": "src/"
+    }
+  }
+}
