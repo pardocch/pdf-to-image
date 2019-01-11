@@ -1,4 +1,5 @@
-#pdf-to-image
+pdf-to-image
+========================================
 
 It is a project that convert pdf files to images(supporting format *.jpg, *.jpeg, *.png)  
 
