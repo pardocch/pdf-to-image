@@ -1,6 +1,6 @@
 <?php
 
-namespace Pardocch\Convert;
+namespace Pardocch\Pdf;
 
 use Imagick;
 

@@ -1,7 +1,7 @@
 <?php
 include_once "../src/Pdf.php";
 
-use Pardocch\Convert\Pdf as Pdf;
+use Pardocch\Pdf\Pdf as Pdf;
 
 $pdf = new Pdf(__DIR__ . '/pdf/test.pdf');
 

@@ -3,7 +3,8 @@
   "description": "",
   "keywords": ["php", "pdf", "pdf-to-image", "convert"],
   "require": {
-    "php": ">=5.4.4"
+    "php": ">=5.4.4",
+
   },
   "license": "MIT",
   "authors": [
@@ -14,7 +15,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Pdf\\": "src/"
+      "Pardocch\\Pdf\\": "src/"
     }
   }
 }
